@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
 
-  s.name            = 'logstash-output-sqs'
+  s.name            = 'logstash-output-sqs-custom'
   s.version         = '6.0.1'
   s.licenses        = ['Apache License (2.0)']
   s.summary         = "Pushes events to an Amazon Web Services Simple Queue Service queue"
